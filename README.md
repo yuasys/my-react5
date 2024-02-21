@@ -1,3 +1,10 @@
+# このリポジトリについて
+
+詳しくは、[この動画](https://youtu.be/siCdwf7dtfs?si=nY_JQOV_aJabr3_F)および[このブログ](https://chikaraemon.com/wordpress/2023/08/17/laravel10inertiareact/)を見てください。
+
+📍参考情報[Gitリポジトリ](https://github.com/yuasys/chatty-journal/blob/main/2023/09/2023-09-21.md) 
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
